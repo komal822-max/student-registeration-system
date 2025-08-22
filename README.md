@@ -19,4 +19,5 @@ A simple, responsive system to register and manage student records.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-registration-system.git
+   git clone https://github.com/komal822-max/student-registeration-system/blob/main/README.md
+
